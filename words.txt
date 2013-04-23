@@ -1,0 +1,10 @@
+cat
+dog
+person
+animal
+toad
+kitten
+mitten
+kiting
+mighting
+frog
